@@ -7,6 +7,7 @@ function App() {
     <div>
       <Header />
       <p>hellow</p>
+      <p>kuch bhi</p>
     </div>
   );
 }
