@@ -8,6 +8,7 @@ function App() {
       <Header />
       <p>hellow</p>
       <p>kuch bhi</p>
+      <p>fix</p>
     </div>
   );
 }
